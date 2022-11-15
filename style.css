@@ -596,4 +596,6 @@ footer > span{
 .text-muted{
     font-size: 30px;
 }
-
+.githubstats{
+    width: 100%;
+}
