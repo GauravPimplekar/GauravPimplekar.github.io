@@ -585,7 +585,7 @@ footer > span{
 
 .calender{
     width: 100%;
-    font-size: 30px;
+   
 }
 
 .position-relative{
@@ -594,7 +594,7 @@ footer > span{
 }
 
 .text-muted{
-    font-size: 30px;
+    font-size: 20px;
 }
 .githubstats{
     width: 100%;
